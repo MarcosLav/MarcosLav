@@ -9,8 +9,9 @@
 - Language enthusiast
 - I enjoy the freedom coding gives for one's life
 
-## My portfolio
+## 📋 My portfolio
+![Portfolio](https://img.shields.io/badge/Portfolio?style=plastic&color=%239966CC&link=https%3A%2F%2Fmarcoslav.github.io)
 
-## Ongoing Projects
+## 📆 Ongoing Projects
 
-## Socials & Contact
+## 💻 Socials & Contact
