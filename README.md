@@ -10,7 +10,7 @@
 - I enjoy the freedom coding gives for one's life
 
 ## 📋 My portfolio
-![Portfolio](https://img.shields.io/badge/Portfolio?style=plastic&color=%239966CC&link=https%3A%2F%2Fmarcoslav.github.io)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&)](https://marcoslav.github.io)
 
 ## 📆 Ongoing Projects
 
